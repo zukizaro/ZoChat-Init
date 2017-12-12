@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\62ace645cd117acb27cf26cf4f1e111457ecda14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7fdec8bba8bc03e8a2b4c0c1362c58dce6c5f94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\90741fa48f1b541c39cdda6462560481fd4e87d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc37e01c8a79fdf30e603a05c6f59ba6cfd42477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\c2f1073b945b17979d8b90a5110d28c9965d1233\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_debbc16ab2350072a39daace385e19dbdbfc7cc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\2ec4bd445f8a21fb70cb60972903e4bbe4673a8b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e79728f52bf8ddb8956d3bca773850223678a0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ProgramFileExtension\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_f737499e348ce29be4e81d8d8b90a386e17792b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\1a760f7d0144e6c95503bf23e99d8f5f4db677ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a97e9365afe4c420674be4f17fdb1e9e1d10c6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\509a8c6a2327ce93e535a90079c90400e8699e67\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77a956960dd579c7cfb8d7263df5a5eab009a2cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\d49d6691ae6629f60c0c3a0bb60eca53d2853504\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f0baa9dc539c6a088cf756135c6691dedb566d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\5d28192d80613f740f4aa1204bb8b2a1d4913f93\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_635c23e08ea810629baba8409647934e84b7cf88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_0dfe62276d77c2225765ec70d7eab0006dae68c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\e68c6b451d3f913e25fe2ad7de2d37596a30d204\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da843a681c5ab8325f417c852c7142351432cca4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\4bc74e9bd6cd5c0fef137870aca914405bca725b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3d223a03e5fbe53130faf5302e154a062ee6349\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\8aa067a2eb7b783c6efa0bd11bb56ad3099b1388\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f8d70e77409fc78a5fc50efd96ae97d1716a26e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\07292ad150a37f0b42c01c2e1fc6c984a85ac31b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f9998e0eeab990bda0f19ad48ca63d78a9163d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\519722bb723179637ac2732806f2cbe84aa9ce99\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5cc6d50385905fa5350ec7cca10edea3c6182896\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\31702e2bf93d251d5ba7e3ce0d53bcc5c9ede25d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24e9f4a92d5ac984a4a0677b56ed494d733bf8cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\a9ad0df8e472b20955c25c92acf82ebc0067086a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e9ddbb96223943f285580e8b2c16a33429d1993\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\c6d75059fa8ecd606a379dc23ffaa7482a050030\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86bcc1ced34b30e296101cf0859aacf89808ceba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\203275fa4e9db99b8f649bd5d5ec089e451d3d3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64d223b9b741ed8d7b5ac0e4cc9015b5dd442ab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\f385c20ee938b2638fbb0d67175c418b7d827608\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8e1a7b74fe3574e48d78cc05ca72550e906971b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\6f84a17dd7a70343284007ba8cd95104ffa2a1ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad9d8a99f22b9b17e8ca4cf27044ccdf6276f130\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e8d6e5725ad6d72125a8c23c442eeb20f4179b35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="33e9acf8974e628b249f3d9bcb26439ae72a003b">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0268cc0a3e754499f43072a522afe9752e7e7711\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ProgramFileExtension\SDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_20d39a2b53fda1a733f9da916393378049761254\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zukizaro\.android\build-cache\7c8616a72da68582b13cb9bb4224374a23f14d0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\projects\Android\mobile-3\project\ZoChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56266ac8b3dc635dd6bdfcd0aae5e64a9ad9cd27\classes.dex" />
+    </item>
+
+</items>

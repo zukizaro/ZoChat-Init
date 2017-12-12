@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "569690624313",
+    "firebase_url": "https://zochat-zukizaro.firebaseio.com",
+    "project_id": "zochat-zukizaro",
+    "storage_bucket": "zochat-zukizaro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569690624313:android:965d32231216ee10",
+        "android_client_info": {
+          "package_name": "com.zochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569690624313-5di79hlm8j7gbb711hahkft62378qrhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSOWaqxYO0lW0-qkSj5-4PIGbncebLwrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

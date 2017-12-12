@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start"
+    android:id="@+id/drawerNotifi">
+    <!--tools:context="com.zochat.ActivityFriend">-->
+
+    <ListView
+        android:id="@+id/lvFriend"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></ListView>
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="end"
+        android:background="#ffffff">
+
+        <ListView
+            android:id="@+id/lvNotifi"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:visibility="gone"/>
+        <LinearLayout
+            android:id="@+id/lnSearch"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp">
+                <EditText
+                    android:id="@+id/etSearch"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:layout_weight="10"
+                    android:background="@drawable/res_bg_edittext"
+                    android:layout_marginRight="10dp"
+                    android:textSize="16sp"
+                    android:hint="Email"/>
+                <Button
+                    android:id="@+id/btnSearch"
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/res_bg_btnsearch"
+                    style="@style/btnSendStyle"/>
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/lvSearch"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="visible"></ListView>
+            <TextView
+                android:id="@+id/tvNoresult"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Không có kết quả"
+                android:visibility="gone"/>
+        </LinearLayout>
+
+    </FrameLayout>
+
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZoChat</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="ketBan">muốn kết bạn với bạn</string>
+
+    <!--Color-->
+    <color name="btnPressed">#0075d9</color>
+    <color name="btn">#42a8ff</color>
+    <color name="btn_enable_false">#c3e3fd</color>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "985588326842",
+    "firebase_url": "https://zochat-83d17.firebaseio.com",
+    "project_id": "zochat-83d17",
+    "storage_bucket": "zochat-83d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985588326842:android:0895df3b0ed0b015",
+        "android_client_info": {
+          "package_name": "com.zochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985588326842-ovvucjv7g4b5im36g9in08dfq19pfrdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zochat",
+            "certificate_hash": "e1aa63fc9362d8e3e4108a2e245690f3e8db1b91"
+          }
+        },
+        {
+          "client_id": "985588326842-qapjops7m5m9hlddljmkt3a05ahrsvs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCypxody53KoKXI8bId6vrNDhptiUFcmts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985588326842-qapjops7m5m9hlddljmkt3a05ahrsvs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

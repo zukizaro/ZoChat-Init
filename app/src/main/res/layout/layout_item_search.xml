@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="3dp">
+
+    <ImageView
+        android:id="@+id/imgSearch"
+        android:layout_width="34dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:scaleType="fitCenter"
+        app:srcCompat="@drawable/ic_account_circle_24dp" />
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:gravity="center_vertical"
+        android:hint="Email"
+        android:text="zukizaro00@gmail.com"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+    <Button
+        android:id="@+id/btnThem"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thêm"
+        style="@style/btnSignIn"/>
+</LinearLayout>
